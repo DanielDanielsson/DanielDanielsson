@@ -5,7 +5,7 @@ This github account contains my side-projects, configuration files and documenta
 I built the [lorema app](https://www.lorema.app/)<br/>
 I got a passion for creating stuff that people find useful.<br/>
 <h2>Lorema app</h2><br>
-<p>The most convenient lorem isum textgenerator app for macOS </p>
+<p>The most convenient lorem ipsum textgenerator app for macOS </p>
 
 <p align="center">
   <a href="https://www.lorema.app/">
