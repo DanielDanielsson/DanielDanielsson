@@ -1,6 +1,6 @@
 <h1> Hi! Im Daniel 👋 </h1> <br/>
 
-Im a frontend developer currently working at [Grebban](https://www.grebban.com/)<br/>
+Developer currently working at [Grebban](https://www.grebban.com/)<br/>
 This github account contains my side projects, configuration files and documentation I want to share.<br/>
 I built the [lorema app](https://www.lorema.app/)<br/>
 I got a passion for creating stuff that people find useful.<br/>
