@@ -6,10 +6,10 @@ I built the [lorema app](https://www.lorema.app/)<br/>
 I got a passion for creating stuff that people find useful.<br/>
 To get in touch with me, DM me on [LinkedIn](https://www.linkedin.com/in/daniel-danielsson-a70415134/) or [Twitter](https://twitter.com/T1Danielsson)
 
+#
 
-Lorema app
-<div style="flex">
-<a href="https://www.lorema.app/">
+<div align="center">
+<a href="https://www.lorema.app/" align="center">
   <img alt="Lorema logo" title="Lorema logo" src="https://www.lorema.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F512.daacb9a7.png&w=1080&q=75" width="150">
 </a>
 <p>The most convenient lorem ipsum textgenerator app for macOS </p>
